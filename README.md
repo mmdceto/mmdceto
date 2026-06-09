@@ -1,21 +1,25 @@
-```markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohammad%20Khademi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineering%20Student%20|%20Embedded%20Systems%20|%20IoT&descAlignY=58" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;Electronic+Engineering+Student;IoT+and+Automation+Enthusiast;Building+Smart+Devices+with+Code+and+Electronics" />
+</p>
+
 # 💫 About Me
 
-👋 Hi, I'm **CeTo** — an Electronic Engineering student passionate about building systems where **hardware meets software**.
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1N2YwZmY2YmE2N2M0N2YxYjM0MmY3OTQwNTRjYzQ4NmM5ODg5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-🔌 My primary interests include **Embedded Systems**, **Microcontrollers**, **IoT**, and **Automation**. I enjoy turning ideas into real-world prototypes using electronics, programming, and modern development tools.
+🔌 Electronic Engineering student passionate about building systems where hardware meets software.
 
-🚀 Currently focused on:
-- Embedded Programming & Firmware Development
-- IoT and Smart Device Projects
-- Electronics Design & Prototyping
-- Hardware–Software Integration
-- Automation Solutions
+⚡ Interested in Embedded Systems, IoT, Automation and Smart Devices.
 
-💡 I believe the best projects are built at the intersection of electronics, code, and creativity.
+🛠️ Turning ideas into real-world prototypes using electronics and code.
 
-🤝 Open to collaborating on embedded systems, automation projects, IoT solutions, and open-source engineering initiatives.
-```
+🚀 Currently exploring firmware development, microcontrollers and hardware-software integration.
+
+🤝 Open to collaboration on embedded systems, automation projects and open-source engineering.
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -102,4 +106,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
