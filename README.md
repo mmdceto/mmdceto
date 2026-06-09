@@ -1,5 +1,21 @@
-# 💫 About Me:
-## Education & Goals<br><br>👋 I'm a 19-year-old student pursuing a **B.Sc. in Electronic Engineering**.  <br>I love building real hardware projects and turning my ideas into working prototypes.<br><br>---<br><br>## Skills<br><br>🧠 **Python programming**<br>🎨 **HTML & CSS**<br>⚡ **JavaScript**<br>🔌 **Embedded systems & microcontrollers**  <br>🏗️ **Arduino & Raspberry Pi** projects  <br>📐 **Electronics theory and circuit design**<br><br>---<br><br>## Interests & Projects<br><br>🔌 I'm enjoying anything that combines electronics with code.  <br>Currently working on small automation projects, IoT setups, and learning how to program microcontrollers in Python.  <br>I also love creating simple web interfaces to control hardware.<br><br>---<br><br>## Current Focus<br><br>🔍 I'm exploring embedded systems, automation, and the perfect mix of hardware and software.  <br>I'm building projects that make everyday devices smarter and more useful.<br><br>---<br><br>## Collaboration<br><br>🤝 I'm always open to working with others.  <br>Whether it's a hardware project, an automation script, or a web interface for electronics, I'm ready to collaborate and bring ideas to life together.
+```markdown
+# 💫 About Me
+
+👋 Hi, I'm **CeTo** — an Electronic Engineering student passionate about building systems where **hardware meets software**.
+
+🔌 My primary interests include **Embedded Systems**, **Microcontrollers**, **IoT**, and **Automation**. I enjoy turning ideas into real-world prototypes using electronics, programming, and modern development tools.
+
+🚀 Currently focused on:
+- Embedded Programming & Firmware Development
+- IoT and Smart Device Projects
+- Electronics Design & Prototyping
+- Hardware–Software Integration
+- Automation Solutions
+
+💡 I believe the best projects are built at the intersection of electronics, code, and creativity.
+
+🤝 Open to collaborating on embedded systems, automation projects, IoT solutions, and open-source engineering initiatives.
+```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -31,11 +47,23 @@
 ![](https://streak-stats.demolab.com/?user=mmdceto&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mmdceto&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mmdceto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mmdceto&limit=5&theme=dark&combine_all_yearly_contributions=true)
