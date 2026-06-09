@@ -31,7 +31,7 @@
 </p>
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white)](https://t.me/mmdceto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmdceto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmdceto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmkh1386@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white)](https://t.me/mmdceto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmdceto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmkh1386@gmail.com)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmdceto) 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
