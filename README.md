@@ -23,8 +23,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmdceto&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/mmdceto?tab=followers">
-    <img src="https://img.shields.io/github/followers/mmdceto?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   </a>
 </p>
 
