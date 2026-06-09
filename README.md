@@ -1,4 +1,4 @@
-```html
+```markdown
 # 💫 About Me
 
 👋 Hi, I'm **CeTo** — an Electronic Engineering student passionate about building systems where **hardware meets software**.
@@ -33,7 +33,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-```html
 # 💻 Tech Stack:
 
 ### 🔌 Embedded & Electronics
@@ -60,7 +59,6 @@
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
