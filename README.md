@@ -8,19 +8,17 @@
 
 # 💫 About Me
 
-<div align="center">
-  <img width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1N2YwZmY2YmE2N2M0N2YxYjM0MmY3OTQwNTRjYzQ4NmM5ODg5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Embedded GIF"/>
-</div>
+<p align="center">
+  <img width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1N2YwZmY2YmE2N2M0N2YxYjM0MmY3OTQwNTRjYzQ4NmM5ODg5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Embedded GIF">
+</p>
 
-🔌 Electronic Engineering student passionate about building systems where hardware meets software.
-
-⚡ Interested in Embedded Systems, IoT, Automation and Smart Devices.
-
-🛠️ Turning ideas into real-world prototypes using electronics and code.
-
-🚀 Currently exploring firmware development, microcontrollers and hardware-software integration.
-
+<p align="center">
+🔌 Electronic Engineering student passionate about building systems where hardware meets software.<br>
+⚡ Interested in Embedded Systems, IoT, Automation and Smart Devices.<br>
+🛠️ Turning ideas into real-world prototypes using electronics and code.<br>
+🚀 Currently exploring firmware development, microcontrollers and hardware-software integration.<br>
 🤝 Open to collaboration on embedded systems, automation projects and open-source engineering.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -86,25 +84,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mmdceto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mmdceto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
