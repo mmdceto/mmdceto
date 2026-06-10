@@ -8,8 +8,7 @@
 
 # 💫 About Me
 
-<!-- گیف سمت راست - بهینه شده برای موبایل -->
-<div align="right">
+<div align="center">
   <img width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1N2YwZmY2YmE2N2M0N2YxYjM0MmY3OTQwNTRjYzQ4NmM5ODg5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Embedded GIF"/>
 </div>
 
@@ -88,10 +87,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmdceto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=mmdceto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -108,10 +104,7 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mmdceto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=mmdceto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
