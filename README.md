@@ -8,7 +8,10 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1N2YwZmY2YmE2N2M0N2YxYjM0MmY3OTQwNTRjYzQ4NmM5ODg5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<!-- گیف سمت راست - بهینه شده برای موبایل -->
+<div align="right">
+  <img width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1N2YwZmY2YmE2N2M0N2YxYjM0MmY3OTQwNTRjYzQ4NmM5ODg5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Embedded GIF"/>
+</div>
 
 🔌 Electronic Engineering student passionate about building systems where hardware meets software.
 
@@ -20,18 +23,19 @@
 
 🤝 Open to collaboration on embedded systems, automation projects and open-source engineering.
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmdceto&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </a>
 </p>
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white)](https://t.me/mmdceto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmdceto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmkh1386@gmail.com)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmdceto) 
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white)](https://t.me/mmdceto) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmdceto) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmkh1386@gmail.com)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmdceto) 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -69,31 +73,45 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mmdceto&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mmdceto&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mmdceto&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mmdceto&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=mmdceto&theme=blue_navy&hide_border=false" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mmdceto&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mmdceto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mmdceto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mmdceto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mmdceto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
